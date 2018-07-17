@@ -1,0 +1,12 @@
+# What is Neural Network?
+
+Neural Network is a Data Transformer. It converts one form of Data in to another.
+If you are familiar with the term "Transfer Function", NN can be easily understood as a Tansfer Function.
+
+#What is Training Neural Network? Why is it required?
+
+In simple terms, Training NN is Calbrating the NN parameters( weights)
+As we adjust the gain, proportional, intergral factors for better performance of a system defined by its TF (Tansfer Function), 
+so we adjust the weights of the NN for fine tuning the output.
+
+
