@@ -1,0 +1,63 @@
+# Linear Algebra
+
+Arabic word Algebra(Al-jabr) => reunion of broken parts or symbols, 
+while 
+Latin word Calculus => small pebble/unit
+
+(may be that first small pebbels are learnt first and then reuniting them !? But started off with Algebra as it is brush up of what is already known.)
+
+After learning today's class on Algebra, I can put it upside down and present Algebra(reunion of parts) of a System ( a mathematical definition of a physical system) as below:
+
+Any system can be presented in its mathematical form involving the parameters and the scaling factors that define the system behaviour.
+
+                           System- defined by- Mathematical Equation(s) ax+by = cz
+                                                 ^
+                                                 |
+                                                 |
+                                 in its matrix form [ a b ][x] = [c] [z]
+                                                                  [y] 
+                                                 ^
+                                                 |
+                                                 |
+                  defined in vectors [a b] or [c] representing the vector notation in space   
+                                                 ^
+                                                 |
+                                                 |
+ system parameters/scaling factors a/b/c being the point in space or position of the system w.r.t the parameter in space 
+
+ 
+ To put it in words, the minute part of a system is a parameter/variable that defines the behaviour of a system, by tuning which with a scaling factor, varies the system behaviour. This minute part when positioned in space of vectors (that define the system), gives a vector of that parameter. Scaling this Vector/Parameter varies the behaviour of system , also defined within the space of system. Say, System output/behaviour is impacted by parameter1, then a change in parameter1 will change the output vector/ behaviour of system. Since a system is defined by many such parameters, the Al-jabr of all these vectors of Parameters constitue the system.
+ 
+ What we study in Algebra is the answers to the following (and more) questions :
+ 1. How the vectors are presented in space? 
+ 2. The basis of a co-ordinate system for ref?
+ 3. What it means to scalar multiply a Vector, its behaviour?
+ 4. What if two (or more) vectors are involved, how to add or multiply vectors to get resultant output vector?
+ 5. What if the axes are transformed linearly, rotated/shifted/oriented ( as if sheet of paper can be transformed or oriented in n ways     in space)?
+ 6. How to represent a new transformed system with known old system and tranformation matrix (orientation)?
+ 7. How does the orientation / transformation has an impact the system?
+ 8. By how much scale the resultant be oriented after transformation?
+ 9. What do the Span of tranformated vectors be?  
+ 10.What is area under the vectors constitue to? 
+ 11.How can we define system behaviour based on determinant? 
+ 
+ the answers being:
+ 
+ 1. How the vectors are presented in space? -- MATRIX of its position relative to X,Y(/Z...) co-ordinate system
+ 2. What is the basis of a co-ordinate system for ref? -- a basis i,j 2D co-ordinate system or i,j,k 3D co-ordinate system and so on
+ 3. What it means to scalar multiply a Vector, its behaviour? -- results again a vector in space. its behaviour depending on +ve or -ve     scale . Its Linear( scale) Algebra
+ 4. What if two (or more) vectors are involved, how to add or multiply vectors to get resultant output vector? - Matrix multiplication       and Addition
+ 5. What if the axes are transformed linearly, rotated/shifted/oriented ( as if sheet of paper can be transformed or oriented in n ways     in space)? - Linear Transformation, Shear
+ 6. How to represent a new transformed system with known old system and tranformation matrix (orientation)? -- Linear Transformation     
+    matrix times Parameter(s) matrix
+ 7. How does the orientation / transformation has an impact the system? -- Column Space, Null space, Rank, Span of vector after 
+    transformation
+ 8. By how much scale the resultant be oriented after transformation? -- its the Eigen value of the vector
+ 9. What do the Span of tranformated vectors be? -- these are Eigen Vectors, the special vectors which maintain same span even after  
+    transformation
+ 10.What is area under the vectors constitue to? -- its the determinant of the resultant vector
+ 11.How can we define system behaviour based on determinant? -- if det(A) = 0 => no area covered between vectors=> vectors are on same  
+    axis=> vectors are linearly spaced => the resultant effect on system will be a linear behaviour.
+    
+    (lots more to come..)
+ 
