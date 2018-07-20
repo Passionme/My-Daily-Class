@@ -1,0 +1,14 @@
+# Keras - A collection of AI algos in API 
+
+Greek word κέρας (Keras) means "horn". Well, here I'm, the Oneiros, to tell the furture of my project IMAGE to IMAGE transition through the gate of κέρας.
+
+The main idea to start Keras for Image to Image transition (Night to Day) was to learn Keras.
+
+While the same task could have been achieved by simple logic in Opencv, by averaging the pixels to find Night/Day, I found the Keras giving more access to algorithms. I used Keras to implement CycleGAN containing both the Generator NN to learn and the Descriminator NN to learn vice-versa of Generator NN (unlearn what was learnt in GNNto reproduce original image).
+
+
+Well, that answers WHY KERAS?
+For my understanding, I would like to list the algos available in Keras as rest can be achieved with any other APIs available in the market.
+
+
+
