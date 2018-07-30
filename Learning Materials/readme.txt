@@ -1,4 +1,18 @@
 My library - Collection of all Documents, pdfs, online materials, Youtube videos 
 
-## Introduction to Deep Learning with Keras and Tensorflow (2018)
-# https://www.youtube.com/watch?v=45MbmHQ5iMY
+# Mathematics - Linear Algebra brush up
+## https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1
+
+# Mathematics - Calculus brush up 
+## https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+
+# Introduction to Deep Learning with Keras and Tensorflow (2018)
+## https://www.youtube.com/watch?v=45MbmHQ5iMY
+
+# Introduction to Deep learning
+## https://medium.com/tensorflow/mit-6-s191-introduction-to-deep-learning-24994d705aca
+## https://www.youtube.com/watch?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&v=JN6H4rQvwgY
+
+# Sentiment Analysis with LSTM on Tensorflow
+## https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow 
+
