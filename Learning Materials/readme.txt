@@ -16,3 +16,12 @@ My library - Collection of all Documents, pdfs, online materials, Youtube videos
 # Sentiment Analysis with LSTM on Tensorflow
 ## https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow 
 
+# Convolutional Neural Networks for Sentence Classification
+## https://www.computer.org/csdl/proceedings/icdar/2003/1960/02/196020958.pdf
+
+# Convolutional Neural Network for Modelling Sentences
+## https://www.computer.org/csdl/proceedings/icdar/2003/1960/02/196020958.pdf
+
+# Best Practices for Convolutional Neural Networks Applied to Visual Document Analysis
+## https://www.computer.org/csdl/proceedings/icdar/2003/1960/02/196020958.pdf
+
