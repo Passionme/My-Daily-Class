@@ -15,3 +15,5 @@ The project is about What I learnt today contributing to all of my freelancing p
 
 31 July 2018  : Recurrent Neural Networks (RNN) and LONG SHOTR TERM MEMORY (LSTM) for Text Processing 
 
+25 Aug 2018   : Genetic Algorithm 
+
