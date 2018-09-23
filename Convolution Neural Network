@@ -15,3 +15,20 @@ Idea behind the mutli channels (=tensor) in Convolution layer is to identif diff
 A first filter may be the convolution over input image = result1, say
 While rest filters can be convolution over the result1 and so on
 
+How to define a convolution to detect a horizontal line in image?
+Lets say we consider a horizontal that occupies 3pixels,then
+H_Convolution = [[1, 1, 1],
+               [-1, -1, -1]]
+On same lines, Vertical line convolution of size3:
+V_Convolution = [[1 -1 ],
+                  [1 -1],
+                  [1 -1]]
+ 
+![alt text]   (   https://github.com/Passionme/My-Daily-Class/blob/master/Learning%20Materials/CNN.PNG)
+    
+Once you define the convolutions, apply convolution to img to vet a filtered image.
+
+Before designing a CNN model, it is good to udnerstand existing models that are trained over millions of input data, which is not practical for common man.
+
+Instead of using the available pretrained models (Tensorflow/Scikit/... provide the models for free), we can customize the models for chop unnecessary filters/ filter layers/ convolution layers and defined our own output layer. This is called "Transfer Learning"
+                  
