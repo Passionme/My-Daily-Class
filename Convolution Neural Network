@@ -1,0 +1,17 @@
+
+
+A Convolution is a subset vector(/tensor of m1Xn1) which can be used as a multipler over the input vector (of size mXn) to identify a pattern in the input image vector.
+
+The resultant of the production of Convolution (array) and input (array) is called a channel.
+
+The convolution can be used to detect a pattern -> a vertical line or a horizaontal line or a pattern in array form to identif strokes in the input image.
+
+This convolution is also called filter. 
+
+Applying many such convolutions will yield n-Convolution outputs or n-Filters -> consititues a Convolution layer and each filter result termed as "channel" in Convolution layer.
+
+Idea behind the mutli channels in Convolution layer is to identif different aspects/artifacts of the input image.
+
+A first filter may be the convolution over input image = result1, say
+While rest filters can be convolution over the result1 and so on
+
