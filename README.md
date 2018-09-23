@@ -17,3 +17,5 @@ The project is about What I learnt today contributing to all of my freelancing p
 
 25 Aug 2018   : Genetic Algorithm 
 
+24 Sep 2018   : Design Convolution for Deep Neural Netwro from Kaggel
+
