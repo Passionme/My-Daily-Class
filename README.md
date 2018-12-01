@@ -19,3 +19,7 @@ The project is about What I learnt today contributing to all of my freelancing p
 
 24 Sep 2018   : Design Convolution for Deep Neural Netwro from Kaggel
 
+// GRE TOEFL Prep holidays for PhD //
+
+02 Dec 2018   :   Learning Facepy GraphAPI to access viedo posts internals
+
