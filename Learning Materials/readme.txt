@@ -25,3 +25,6 @@ My library - Collection of all Documents, pdfs, online materials, Youtube videos
 # Best Practices for Convolutional Neural Networks Applied to Visual Document Analysis
 ## https://www.computer.org/csdl/proceedings/icdar/2003/1960/02/196020958.pdf
 
+# Facepy GraphAPI to access post internals
+## https://facepy.readthedocs.io/en/latest/usage/graph-api.html
+
