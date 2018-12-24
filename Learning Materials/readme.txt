@@ -28,3 +28,6 @@ My library - Collection of all Documents, pdfs, online materials, Youtube videos
 # Facepy GraphAPI to access post internals
 ## https://facepy.readthedocs.io/en/latest/usage/graph-api.html
 
+# Business Behavioral Pattern-Based Customer Segmentation
+## https://scikit-learn.org/stable/modules/clustering.html
+
