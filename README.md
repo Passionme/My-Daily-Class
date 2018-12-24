@@ -23,3 +23,5 @@ The project is about What I learnt today contributing to all of my freelancing p
 
 02 Dec 2018   :   Learning Facepy GraphAPI to access viedo posts internals
 
+15 Dec 2018   :  Behavioral Pattern-Based Customer Segmentation for Business 
+
