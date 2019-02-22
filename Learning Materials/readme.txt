@@ -31,3 +31,5 @@ My library - Collection of all Documents, pdfs, online materials, Youtube videos
 # Business Behavioral Pattern-Based Customer Segmentation
 ## https://scikit-learn.org/stable/modules/clustering.html
 
+# People centric AI - Fintech - Build credit score/ Underwriting, pricing and credit risk assessment for disbursal of loan
+## https://towardsdatascience.com/ten-applications-of-ai-to-fintech-22d626c2fdac
