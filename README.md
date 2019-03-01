@@ -29,6 +29,9 @@ The project is about What I learnt today contributing to all of my freelancing p
 
 10 Feb 2019   : Mathematical approach to Optimization of Transmission system repair restoration and load pickup using LPP, MIP (Linear Programming, Mixed-Integer programming and Constrained optimization Programming )
 
-22 Feb 2019.  : People Centric AI application in Fintech - Digital Financial Coach/Advisor, Client Risk Profile, Underwriting, Pricing & Credit Risk Assessment
+22 Feb 2019  : People Centric AI application in Fintech - Digital Financial Coach/Advisor, Client Risk Profile, Underwriting, Pricing & Credit Risk Assessment
 
-22 Feb 2019.   : AI Fintedch application -  Underwriting, Pricing & Credit Risk Assessment 
+22 Feb 2019   : AI Fintedch application -  Underwriting, Pricing & Credit Risk Assessment 
+
+01 Mar 2019   : House Price Prediction using Artificial Neural Networks
+
