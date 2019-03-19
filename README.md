@@ -26,12 +26,10 @@ The project is about What I learnt today contributing to all of my freelancing p
 15 Dec 2018   :  Behavioral Pattern-Based Customer Segmentation for Business 
 
 05 Feb 2019   :  Resolve captcha using AI Image processing 
-
 10 Feb 2019   : Mathematical approach to Optimization of Transmission system repair restoration and load pickup using LPP, MIP (Linear Programming, Mixed-Integer programming and Constrained optimization Programming )
-
 22 Feb 2019  : People Centric AI application in Fintech - Digital Financial Coach/Advisor, Client Risk Profile, Underwriting, Pricing & Credit Risk Assessment
-
 22 Feb 2019   : AI Fintech application -  Underwriting, Pricing & Credit Risk Assessment 
 01 Mar 2019   : House Price Prediction using Artificial Neural Networks
 08 Mar 2019   : AI Image processing for custom edit image Opencv
 12 Mar 2019   : Automation of Crop image for vertical and horizontal regions using opencv
+19 Mar 2019   : Facial landmarks/ Facial parts detection using Dlib
