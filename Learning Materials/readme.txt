@@ -33,3 +33,9 @@ My library - Collection of all Documents, pdfs, online materials, Youtube videos
 
 # People centric AI - Fintech - Build credit score/ Underwriting, pricing and credit risk assessment for disbursal of loan
 ## https://towardsdatascience.com/ten-applications-of-ai-to-fintech-22d626c2fdac
+
+# Dlib Facial landmark detection
+One millisecond face alignment with an ensemble of regression trees
+Vahid Kazemi, Josephine SullivanPublished in IEEE Conference on Computer Vision and Pattern… 2014
+DOI:10.1109/CVPR.2014.241
+## https://www.semanticscholar.org/paper/One-millisecond-face-alignment-with-an-ensemble-of-Kazemi-Sullivan/1824b1ccace464ba275ccc86619feaa89018c0ad
